@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## 🛠 Tech Stack  
 
 ### **📌 Machine Learning & AI**  
@@ -35,9 +33,8 @@
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-
-
 </p>
+
 ### **🗄️ Databases & Tools**  
 <p align="center">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -46,6 +43,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+---
 
 ## 📬 Connect with Me  
 <p align="center">
@@ -56,4 +54,5 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
